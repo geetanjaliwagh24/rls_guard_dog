@@ -1,0 +1,6 @@
+{
+  "deno.enable": true,
+  "deno.path": "C:\\Users\\geeta\\.deno\\bin\\deno.exe",
+  "deno.lint": true,
+  "deno.unstable": true
+}
